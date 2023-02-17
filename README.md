@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning Golang
 -->
+
+# less56
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=less56&show_icons=true&theme=&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=less56&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
